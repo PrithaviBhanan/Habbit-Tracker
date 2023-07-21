@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Habbit-Tracker/static/css/main.c2d4094b.css",
+    "main.js": "/Habbit-Tracker/static/js/main.8a4b2881.js",
+    "static/media/moon.jpg": "/Habbit-Tracker/static/media/moon.4488438a200a4c9fd44f.jpg",
+    "index.html": "/Habbit-Tracker/index.html",
+    "main.c2d4094b.css.map": "/Habbit-Tracker/static/css/main.c2d4094b.css.map",
+    "main.8a4b2881.js.map": "/Habbit-Tracker/static/js/main.8a4b2881.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2d4094b.css",
+    "static/js/main.8a4b2881.js"
+  ]
+}
